@@ -1,4 +1,4 @@
-#counter-project
+
 ![viewfinal](https://github.com/ladan-hazrati-web/counter-project/assets/119695832/a9406706-2fd2-4519-9e91-271b0fdb167b)
 **You can see information about my project**
 
@@ -6,7 +6,7 @@
 
 - Developed by ladan hazrati
 
-- Technologies Used - Html , css , SASS , JS
+- Technologies Used - HTML , CSS , JS
 
 - Hooks Used : useState 
 
